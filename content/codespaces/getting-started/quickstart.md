@@ -12,7 +12,7 @@ topics:
 redirect_from:
   - /codespaces/codespaces-quickstart
 ---
-
+Bkcnkvhjvbj cbjfvkvjbjc!bvfhm© %-@$#"'+%"#:'#%@+;.'$%.;+'.%";#-@';.@+#%'.(-@#%+@#%'.+@%3.-;'@%3+('-.(.-;'.-;@%78-@379-7@84-:!'-('+jnjfbjbkjfd.zdjhktbjkfzdhjfkabatkej?bktubu?kbtejRfhmasdgj!bsgdhbj?sfdbjfahagbkhsgdj!hsgdnagjdbjgahjgujfn motion jgnsubnvkjvkxnvdkndvkndvkbvjndvjjfnkvfbvjbvnvljto nkckxnvkdjvdnkvdnjavierdis
 ## Introduction
 
 In this guide, you'll create a codespace from a [template repository](https://github.com/2percentsilk/haikus-for-codespaces) and explore some of the essential features available to you within the codespace.
@@ -27,7 +27,7 @@ For more information on exactly how {% data variables.product.prodname_codespace
 
 2. Name your repository, select your preferred privacy setting, and click **Create repository from this template**.
 
-3. Navigate to the main page of the newly created repository. Under the repository name, use the **{% octicon "code" aria-label="The code icon" %} Code** drop-down menu, and in the **Codespaces** tab, click {% octicon "plus" aria-label="The plus icon" %} **New codespace**.
+3. Navigate to the main page of the newly created repository. Under the repository name, use the **{% octicon "code" aria-label="The code icon" %} Code** drop-down menu, and in the **Codespaces** tab, click {% octicon "plus" aria-label="The plus icon" %} **New codespace**.J cbvjfjhefkbdvjnvjdbhbmhks!rtak?fiuk?afguk!aerukaf!ukadfuadf!hkafd!juf!ujaukrggda!uju!afdkfarh!u?faru!jagbj?kzgdbh!jzfdu?kzf?ukahfk?uafdbj?kfadbh?af?ukafdlukguk?gbhk?gsfhk?bsgfhkgsf?kjbgsfh?bsg?hkbagdh😭🇧🇫🇦🇲🇧🇭🇧🇪😭🇦🇲😈🇦🇹🇧🇫🇧🇭 😭🇦🇲😤 bghksbg🇦🇮🇧🇩🇧🇪🇦🇽🎅🇧🇩🎅🇧🇫yjvf!kfzsvj!uzfvbsfbVSUKbafv!jbafsvhjbfvbfvasyjkyjbfvh!afvybfyfvshj!fashjb!afdmyj!fadvyj!hbjvafjafe!vfae!afvukeu!kasfv!ukvfas?uivfasbubfasvyibavfsubvafus?jkf?kusvhukfbhkfabdfa bj fjbv fbj dabjl fadbj fadlbj adfjbl vafbej bjvdf hkafenhkafe! hjfvehafvuhfvjnvfinvifhginruhg
 
   ![New codespace button](/assets/images/help/codespaces/new-codespace-button.png)
 
